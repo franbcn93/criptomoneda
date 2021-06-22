@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Para provar el projecto [Haz click AQUÍ](https://franbcn93.github.io/criptomoneda).
+Para probar el projecto [Haz click AQUÍ](https://franbcn93.github.io/criptomoneda).
 
 ## Available Scripts
 
